@@ -178,11 +178,11 @@ tr:nth-child(even) { background-color: #f9f9f9; }
 </head>
 <body>
 
-<h2>Guest Access Review Required</h2>
+<h2>Guest Access Review Report</h2>
 
 <p>Dear $($Sponsor.SponsorName),</p>
 
-<p>The following guest accounts you sponsor are due for review within the next <b>$NotifyDays days</b>.</p>
+<p>The following guest accounts you sponsor are due for review</p>
 
 <table>
 <tr>
