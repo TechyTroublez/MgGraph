@@ -8,7 +8,7 @@ Connect-MgGraph -Identity
 # Config
 # ================================
 
-$senderEmail = "corporate.alerts@betvictor.com"
+$senderEmail = "dean.hoile@deansbean2.com"
 $NotifyDays  = 30
 $Today       = (Get-Date).Date
 
