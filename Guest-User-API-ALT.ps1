@@ -6,8 +6,8 @@
 # ================================
 # Config
 # ================================
-$senderEmail   = "dean.hoile@bv-group.com"
-$testRecipient = "dean.hoile@bv-group.com"   # 👈 CHANGE THIS
+$senderEmail   = "dean.hoile@deansbean2.com"
+$testRecipient = "dean.hoile@deansbean2.com"   # 👈 CHANGE THIS
 $NotifyDays    = 30
 $Today         = (Get-Date).Date
 
